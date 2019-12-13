@@ -2501,6 +2501,8 @@ img {
    .soustable{
     display: flex;
    flex-direction: column;
+   align-items: center;
+
  }
   .img-app{
     width: 100% !important;
